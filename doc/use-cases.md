@@ -1,3 +1,9 @@
+---
+layout: default
+title: "Use Cases"
+nav_order: 4
+---
+
 # Use Cases and their handling of the AWAre architecture
 
 ## Use Case 1:
