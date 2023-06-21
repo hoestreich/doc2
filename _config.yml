@@ -5,4 +5,7 @@ theme: just-the-docs
 url: https://hoestreich.github.io/doc2
 
 aux_links:
-  Template Repository: https://github.com/hoestreich/doc2
+  "Docs on github": 
+  - https://github.com/hoestreich/doc2
+  "Demo instance":
+  - https://aware-demo.bob.ci.cit-ec.net
