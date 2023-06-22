@@ -19,5 +19,5 @@ nav_order: 4
   <dd>Max logs into the AWAre System, chooses a learning unit, starts it, receives information for the first task and completes it.</dd>
 </dl>
 
-![Sequence diagram](/doc/img/Session_Management.png){: width="700" }
+![Sequence diagram](../assets/img/Session_Management.png){: width="700" }
 _Sequence diagram_
